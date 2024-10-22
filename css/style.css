@@ -6,7 +6,7 @@
 
 .header{
   height: 60vh;
-  background: url('/images/header-bg.jpeg');
+  background: url('../images/header-bg.jpeg');
   display: flex;
 }
 
