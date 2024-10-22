@@ -63,5 +63,8 @@
   font-size: 14px;
   border: 2px solid white;
   border-radius: 9px 12px 9px 12px;
-  /* margin-top: 18px; */
+}
+
+.header button:hover{
+  cursor: pointer;
 }
