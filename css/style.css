@@ -108,6 +108,7 @@ html{
 
 #services .box img{
   height: 160px;
+  width: 160px;
   display: block;
   margin: auto;
 }
